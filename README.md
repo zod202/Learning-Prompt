@@ -1,11 +1,11 @@
 <div align="center">
 <img src="static/img/logo.svg" width="180px" />
-<h1>👋 Welcome to Learning Prompt</h1>
+<h1>👋 Welcome to Prompt</h1>
 <p>
-   <strong>免费 Prompt Engineering 教程</strong>
+   <strong>免费 Prompt 教程</strong>
 </p>
 <h4>
-    <a href="https://learningprompt.wiki/">阅读教程</a>
+    <a href="https://gtpcc.cc/">阅读教程</a>
     <span> | </span>
     <a href="https://mcousdyt7h.feishu.cn/share/base/form/shrcn8p8MEmbkTiCDyVVPmdUoSg">填写反馈表单</a>
 </h4>
@@ -14,8 +14,8 @@
 ## 😎 关于本教程
 
 本教程包含两个部分，内容是我在学习 Prompt Engineering 过程中，总结出来的一些经验和方法。如果你也在学习，希望这份教程能够帮到你。
-1. [ChatGPT 教程](https://learningprompt.wiki/docs/chatgpt-learning-path)：由浅入深，从使用者的角度，教你如何使用 ChatGPT，以及如何更好地使用 ChatGPT。
-2. [Midjourney 教程](https://learningprompt.wiki/docs/midjourney-learning-path)：通过各种场景案例，教你如何使用 Midjourney。即使是小白，看完教程后，也能够快速上手。
+1. [ChatGPT 教程](https://gtpcc.cc/docs/chatgpt-learning-path)：由浅入深，从使用者的角度，教你如何使用 ChatGPT，以及如何更好地使用 ChatGPT。
+2. [Midjourney 教程](https://gtpcc.cc/docs/midjourney-learning-path)：通过各种场景案例，教你如何使用 Midjourney。即使是小白，看完教程后，也能够快速上手。
 
 它不是什么？
 - 本教程不是 prompt 大全，如果你预期是找到能直接用的 prompt，建议你谷歌找一找。本教程更多地是教你方法，以及解释这些方法为何有效。
