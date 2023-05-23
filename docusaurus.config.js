@@ -8,7 +8,7 @@ const tailwindPlugin = require('./plugins/tailwind-plugin.cjs')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Learning Prompt',
+  title: 'Prompt',
   tagline: '免费的 Prompt Engineering 教程',
   url: 'https://gtpcc.cc',
   baseUrl: '/',
@@ -63,7 +63,7 @@ const config = {
         },
       },
       navbar: {
-        title: 'Learning Prompt',
+        title: 'Prompt',
         logo: {
           alt: 'Learning Prompt logo',
           src: 'img/logo.svg',
