@@ -76,12 +76,12 @@ const config = {
           //   dropdownActiveClassDisabled: true,
           // },
 
-          {
-            type: 'doc',
-            docId: '👋 Welcome',
-            position: 'left',
-            label: '👋 欢迎',
-          },
+//           {
+//             type: 'doc',
+//             docId: '👋 Welcome',
+//             position: 'left',
+//             label: '👋 欢迎',
+//           },
           {
             type: 'doc',
             docId: 'chatgpt-learning-path',
