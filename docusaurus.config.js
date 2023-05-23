@@ -94,6 +94,11 @@ const config = {
             docId: 'midjourney-learning-path',
             label: '🖼️ Midjourney 教程',
           },
+          {
+            href: 'https://chat.gtpcc.cc/',
+            label: '📰 ChatGPT网页版',
+            position: 'right',
+          },
 //           { to: '/blog', label: '📰 更新日志', position: 'left' },
 //           {
 //             href: 'https://jimmywong.bio/',
