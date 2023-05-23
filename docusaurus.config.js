@@ -10,7 +10,7 @@ const tailwindPlugin = require('./plugins/tailwind-plugin.cjs')
 const config = {
   title: 'Learning Prompt',
   tagline: '免费的 Prompt Engineering 教程',
-  url: 'https://learningpromt.wiki',
+  url: 'https://gtpcc.cc',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -94,17 +94,17 @@ const config = {
             docId: 'midjourney-learning-path',
             label: '🖼️ Midjourney 教程',
           },
-          { to: '/blog', label: '📰 更新日志', position: 'left' },
-          {
-            href: 'https://jimmywong.bio/',
-            label: '😎 关于我',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/thinkingjimmy/Learning-Prompt',
-            label: 'GitHub',
-            position: 'right',
-          },
+//           { to: '/blog', label: '📰 更新日志', position: 'left' },
+//           {
+//             href: 'https://jimmywong.bio/',
+//             label: '😎 关于我',
+//             position: 'right',
+//           },
+//           {
+//             href: 'https://github.com/thinkingjimmy/Learning-Prompt',
+//             label: 'GitHub',
+//             position: 'right',
+//           },
         ],
       },
       prism: {
